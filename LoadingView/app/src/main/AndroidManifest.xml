@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".ShowLoadingActivity">
         </activity>
+        <activity android:name=".NumberProgressActivity">
+        </activity>
 
     </application>
 

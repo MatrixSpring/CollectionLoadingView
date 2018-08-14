@@ -15,7 +15,15 @@
         android:layout_marginTop="32dp"/>
 
     <TextView
-        android:id="@+id/loading_cover_view"
+        android:id="@+id/number_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:text="数字进度条"
+        android:layout_marginTop="32dp"/>
+
+    <TextView
+        android:id="@+id/sds"
         android:layout_width="wrap_content"
         android:layout_height="60dp"
         android:layout_gravity="center_horizontal"
